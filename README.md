@@ -16,7 +16,7 @@ A resume tells you what someone *claims* to know — not how well they actually 
 ![Catalyst Architecture](architecture.png)
 
 
-## Flow
+### Pipeline Flow
 ```
 Resume (PDF/TXT) + Job Description
            │
@@ -279,3 +279,6 @@ No paid API credits used. Everything runs on free tiers.
 - **Hackathon:** Catalyst by Deccan.ai
 - **Model:** Gemini 2.5 Flash
 - **Stack:** LangChain + LangGraph + Streamlit
+- **Live App:** https://ai-powered-skill-assessment-personalised-learning-plan-agent.streamlit.app/
+- **GitHub:** https://github.com/Lok22-del/catalyst-ai-assessment
+- **Demo:** https://www.loom.com/share/5a899a4ad0224d458f7de3e8c4ae6986
