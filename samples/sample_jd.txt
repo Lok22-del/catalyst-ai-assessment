@@ -1,0 +1,15 @@
+Job Title: Generative AI & Data Science Engineer
+
+Required Skills:
+Python, SQL, LangChain, RAG, Prompt Engineering,
+Agentic AI, ML, DL, NLP, Generative AI
+
+Experience: 0-2 years
+Domain: AI/ML
+
+Responsibilities:
+- Build and deploy LLM-powered applications
+- Design RAG pipelines for document intelligence
+- Develop agentic AI systems using LangChain and LangGraph
+- Work with vector databases like FAISS, Pinecone, ChromaDB
+- Collaborate with data science team on ML models

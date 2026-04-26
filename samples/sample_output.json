@@ -1,0 +1,26 @@
+{
+  "candidate_name": "Thatikonda Lokesh",
+  "target_role": "Generative AI & Data Science Engineer",
+  "overall_readiness_score": 71,
+  "readiness_label": "Partially Ready",
+  "total_learning_weeks": 10,
+  "daily_hours_commitment": 2.0,
+  "skill_plans": [
+    {
+      "skill": "RAG",
+      "current_level": "None",
+      "target_level": "Intermediate",
+      "estimated_weeks": 3,
+      "priority": "Critical",
+      "practice_project": "Build a PDF Q&A chatbot using RAG + Gemini"
+    }
+  ],
+  "weekly_schedule": [
+    {
+      "week_number": 1,
+      "focus_skills": ["RAG"],
+      "daily_hours_needed": 2.0,
+      "deliverable": "Can explain RAG pipeline and implement basic retrieval"
+    }
+  ]
+}
