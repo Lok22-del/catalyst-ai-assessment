@@ -90,12 +90,17 @@ Open http://localhost:8501 in your browser.
 ## File Structure
 
 ```
-catalyst_project/
+catalyst-ai-assessment/
 ├── app.py                       # Streamlit UI — main interface
 ├── pipeline.py                  # Orchestrates all 4 agents
 ├── main.py                      # FastAPI server (alternative backend)
-├── requirements.txt
-├── .env.example
+├── requirements.txt             # All dependencies
+├── runtime.txt                  # Python 3.11 for Streamlit Cloud
+├── architecture.png             # Architecture diagram
+├── samples/
+│   ├── sample_resume.pdf        # Sample candidate resume — Thatikonda Lokesh
+│   ├── sample_jd.txt            # Sample job description — Generative AI Engineer
+│   └── sample_output.json       # Sample final report output with readiness score
 ├── agents/
 │   ├── skill_extractor.py       # Agent 1: Resume + JD parser (LangChain)
 │   ├── assessment_agent.py      # Agent 2: Conversational interviewer (LangChain)
